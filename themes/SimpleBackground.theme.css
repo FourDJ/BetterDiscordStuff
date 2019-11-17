@@ -1,0 +1,27 @@
+//META{"name":"Background/w OutlineText","description":"Nice Background with OutlineText","author":"Four_DJ","version":"1.0"}*//
+
+:root {
+    --background-image: url(https://cdn.discordapp.com/attachments/565504585456812035/645406392911659018/911907.jpg); 
+}
+
+.appMount-3lHmkl, body {
+    background-color: transparent;
+}
+
+.theme-dark {
+	--text-normal: #ffffff;
+	--text-link: #5bd1ff;
+	--background-primary: rgba(0,0,0,0.1);
+	--background-secondary: rgba(0,0,0,0.22);
+	--background-tertiary: rgba(0,0,0,0.3);
+}
+
+.panels-j1Uci_ {
+	background-color: rgba(0,0,0,0.4);
+}
+
+.inner-zqa7da {
+	background-color:rgba(0,0,0,0.4);
+}
+
+}
